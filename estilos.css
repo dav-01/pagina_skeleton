@@ -4,4 +4,10 @@ body{
 
 p{
   background-color: #BAC9D1;
+  border: solid;
+  padding: 10px;
+}
+
+h1{
+  text-align: center;
 }
